@@ -13,7 +13,7 @@ arithmetic](https://en.wikipedia.org/wiki/Finite_field_arithmetic).
 
 “Every field of a finite number of marks may be represented as a Galois
 field of order s=p^n, where p^n is a power of a prime. The GF[p^n] is
-defined uniquely by its order, and is therefore independent of he particular
+defined uniquely by its order, and is therefore independent of the particular
 irreducible congruence used in its construction.” [W. H. Bussey, Tables of
 Galois fields of order less than 1,000. Bulletin of the American
 Mathematical Society, 16(4):188–206, 1910.]
