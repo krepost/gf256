@@ -292,7 +292,7 @@ func TestInverse(t *testing.T) {
 	for _, data := range testData {
 		actualInverse, err := f.Inv(data.number)
 		if err != nil {
-			t.Errorf("1 / %v: got error %v", err)
+			t.Errorf("1 / %v: got error %v", data.number, err)
 		}
 		if data.expectedInverse != actualInverse {
 			t.Errorf("1 / %v: expected %v, actual %v.", data.number, data.expectedInverse, actualInverse)
